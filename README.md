@@ -1,51 +1,19 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Apostas Esportivas para Iniciantes: Guia Técnico e Estratégico 📈
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Neste eBook, "Apostas Esportivas para Iniciantes: Guia Técnico e Estratégico", você encontrará uma introdução detalhada ao mundo das apostas esportivas, explicações claras sobre os diferentes tipos de apostas, e uma análise técnica das odds. Além disso, oferecemos dicas valiosas e estratégias eficazes para ajudá-lo a começar com o pé direito e a gerenciar suas apostas de forma responsável. Com gráficos informativos e exemplos práticos, este guia é perfeito para quem deseja entender melhor o funcionamento das apostas esportivas e maximizar suas chances de sucesso.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
+- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do e-book;
+- Ferramenta **Reedsy** para edição.
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
+Utilizei o "ChatGPT" para revisar minha pesquisa sobre eBooks e Apostas Esportivas, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Leonardo AI" foi usado para gerar a capa do meu eBook. Para concluir, a montagem final foi feita no Reedsy, por ser uma ferramenta grátis para edição e publicação de eBooks
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O eBook fornecerá aos iniciantes as ferramentas e estratégias necessárias para gerenciar suas apostas de maneira responsável e eficaz, aumentando suas chances de sucesso a longo prazo, tudo isso feito a partir de IA`s generativas, demonstrando todo o poder destas ferramentas. 
+**[eBook](https://drive.google.com/file/d/1saZMiGY57WyySs186kaHBGsPR5FrCy9w/view?usp=sharing)**
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Projeto divertido de se fazer embora a falta de tempo me levou a fazer um eBook mais curto.
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
